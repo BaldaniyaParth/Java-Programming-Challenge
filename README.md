@@ -18,8 +18,5 @@ Welcome to the Java Programming Challenges repository! Here, you'll find a curat
 12. **Multithreading and Executor Service**
 13. **Functional Programming**
 
-## Additional Resources:
-- A PDF document containing the list of 115 programming challenges is available in the repository for easy reference.
-
 Feel free to explore, contribute, and challenge yourself with these programming exercises. Happy coding!
 
